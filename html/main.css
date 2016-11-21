@@ -1,3 +1,14 @@
-body{
-  background: lavender;
+body {
+    background: lavender;
+    font-family: arial;
+}
+
+h1, h2{
+  color: brown;
+}
+
+footer{
+  background: black;
+  color: orange;
+  padding: 10px;
 }
