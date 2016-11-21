@@ -5,10 +5,17 @@ body {
 
 h1, h2{
   color: brown;
+  font-size: 25;
 }
 
 footer{
+  text-align: right;
   background: black;
   color: orange;
   padding: 10px;
+}
+
+p{
+  background: pink;
+  padding: 12;
 }
