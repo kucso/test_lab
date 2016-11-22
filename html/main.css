@@ -5,6 +5,7 @@ body {
 
 h1, h2{
   color: brown;
+  text-align: center;
   font-size: 25;
 }
 
@@ -16,6 +17,6 @@ footer{
 }
 
 p{
-  background: pink;
+  background: lightblue;
   padding: 12;
 }
